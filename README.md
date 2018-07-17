@@ -8,6 +8,15 @@ Utilized producer-consumer solution to manage access to a bounded buffer storing
 ## Author
 James(Yuhao) He
 
+## Platform
+Linux & Windows
+
+## Building tools
+Standard C 
+
+## License 
+This project is under C License
+
 ## Overview
 ### Inputs
 <dt>The program will accept three arguments: </dt>
